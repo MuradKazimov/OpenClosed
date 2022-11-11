@@ -1,0 +1,11 @@
+C:\Users\Murad\source\repos\OpenClosed\OpenClosed\bin\Debug\OpenClosed.exe.config
+C:\Users\Murad\source\repos\OpenClosed\OpenClosed\bin\Debug\OpenClosed.exe
+C:\Users\Murad\source\repos\OpenClosed\OpenClosed\bin\Debug\OpenClosed.pdb
+C:\Users\Murad\source\repos\OpenClosed\OpenClosed\obj\Debug\OpenClosed.csproj.AssemblyReference.cache
+C:\Users\Murad\source\repos\OpenClosed\OpenClosed\obj\Debug\OpenClosed.csproj.SuggestedBindingRedirects.cache
+C:\Users\Murad\source\repos\OpenClosed\OpenClosed\obj\Debug\OpenClosed.Form1.resources
+C:\Users\Murad\source\repos\OpenClosed\OpenClosed\obj\Debug\OpenClosed.Properties.Resources.resources
+C:\Users\Murad\source\repos\OpenClosed\OpenClosed\obj\Debug\OpenClosed.csproj.GenerateResource.cache
+C:\Users\Murad\source\repos\OpenClosed\OpenClosed\obj\Debug\OpenClosed.csproj.CoreCompileInputs.cache
+C:\Users\Murad\source\repos\OpenClosed\OpenClosed\obj\Debug\OpenClosed.exe
+C:\Users\Murad\source\repos\OpenClosed\OpenClosed\obj\Debug\OpenClosed.pdb
